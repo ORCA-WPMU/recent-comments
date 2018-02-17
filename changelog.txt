@@ -1,0 +1,22 @@
+=== Recent Comments ===
+Authors: Ivan Shaovchev, Andrew Billits (Incsub)
+
+== Changelog ==
+
+= 1.0.2.1 = 
+* IMPORTANT security update
+* XSS prevention patches
+* Update WPMU DEV Update Notification
+
+= 1.0.2 =
+* Compatibility update for WordPress 3.1
+* Upgrade Notification script added
+
+= 1.0.1 =
+* Added the ability to link to comments.
+
+= 1.0.0 =
+* Initial Release
+
+
+403900-1511252042-ai
